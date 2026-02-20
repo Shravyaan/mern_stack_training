@@ -1,0 +1,11 @@
+{
+  "name": "mern_stack_training",
+  "version": "1.0.0",
+  "description": "Learning JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shravya N",
+  "license": "ISC"
+}
