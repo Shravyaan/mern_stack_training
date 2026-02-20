@@ -59,3 +59,13 @@
     2. Change Content
         - innerHTML
         - textContent
+
+# Events in JS
+
+- Click
+- Submit
+- keyup/down
+
+# Asynchronous JavaScript
+
+- To fetch API this function is used
